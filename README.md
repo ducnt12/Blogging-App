@@ -8,3 +8,4 @@ Server-side redering blogging app.
 4. Enter again to exit the python function
 # Tech Stack
 - Backend: Flask 
+- Frontend: HTML, CSS and bootstrap 5
